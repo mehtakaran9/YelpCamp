@@ -1,0 +1,32 @@
+body {
+    background: maroon;
+}
+
+.commentsText {
+    color:red; 
+    font-weight:700; 
+    text-align: left; 
+    font-size:25px;
+}
+
+
+.navbar {
+    background: black;
+    padding: 0;
+    border:0;
+}
+
+.padder{
+    padding:0;
+    border:0;
+}
+
+.new{
+    background: white !important;
+    width: 30% !important;
+    border-radius: 15px;
+}
+
+.whiter {
+    color: white !important;
+}
